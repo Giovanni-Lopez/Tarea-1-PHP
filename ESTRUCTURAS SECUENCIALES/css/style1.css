@@ -1,0 +1,43 @@
+.Form{
+    width: 30%;
+    margin: 0 auto;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.btn{
+    text-align: center;
+    background-color: purple;
+    border: none;
+}
+
+.table{   
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 50%;    
+}
+
+.result{        
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contenedor{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contenedor .select {    
+    width: 40%;
+    border-radius: 5px;
+    margin: 0 auto;
+    border: 4px solid aqua;
+    box-shadow: 5px 5px 5px red;
+}
+
+.select .Form{
+    width: 80%;
+    margin-bottom: 40px;
+}
